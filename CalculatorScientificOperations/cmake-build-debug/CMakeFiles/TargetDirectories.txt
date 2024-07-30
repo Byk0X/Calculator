@@ -1,0 +1,3 @@
+/home/maciejl/CLionProjects/CalculatorScientificOperations/cmake-build-debug/CMakeFiles/CalculatorScientificOperations.dir
+/home/maciejl/CLionProjects/CalculatorScientificOperations/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/maciejl/CLionProjects/CalculatorScientificOperations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
